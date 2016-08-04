@@ -1,0 +1,25 @@
+h1{
+	margin-top: 0px;
+	color: #557c3e;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+}
+p{
+	text-align: left;
+}
+main{
+	margin-top: 100px;
+}
+.page{
+	text-align: center
+}
+
+#text{
+  margin-bottom: 10px;  
+}
+form{
+	margin-top: 30px;
+	
+}
